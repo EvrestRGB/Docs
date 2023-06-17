@@ -2,6 +2,10 @@
 
 ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+[![GitHub stars](https://img.shields.io/github/stars/EvrestRGB/Docs.svg?style=social&label=Star)](https://github.com/EvrestRGB/Docs)
+
+
+
 La documentation est un élément essentiel lors du développement de projets de programmation. Elle permet aux développeurs, utilisateurs et contributeurs de comprendre le fonctionnement du projet, de l'utiliser correctement et de contribuer efficacement à son amélioration. Dans ce tutoriel, nous allons examiner les bonnes pratiques pour écrire des documentations de projets de programmation de qualité.
 
 ## 1. Structure de la documentation
@@ -47,6 +51,8 @@ Si vous acceptez les contributions externes, expliquez comment les utilisateurs 
 ## 2. Rédaction
 
 La rédaction d'une documentation claire et concise est cruciale pour sa compréhension. Voici quelques conseils utiles :
+
+Utilisez des badges md comme ceux de shields.io ou 
 
 ### 2.1 Utilisez un langage clair et simple
 
